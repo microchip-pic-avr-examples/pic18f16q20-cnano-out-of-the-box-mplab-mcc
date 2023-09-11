@@ -10,7 +10,7 @@
         "shortDescription": "This project comes preloaded on the PIC18F16Q20 Curiosity Nano board and launches when the user first plugs it in.\r\n ",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=6.1.0"
+            "semverRange": ">=6.1.5"
         },
         "compiler": [
             {
@@ -20,11 +20,11 @@
         ],
         "dfp": {
             "name": "PIC18F-Q_DFP",
-            "semverRange": "^1.19.401"
+            "semverRange": "^1.20.405"
         },
         "configurator": {
             "name": "MCC",
-            "semverRange": ">=5.5.7"
+            "semverRange": ">=5.3.7"
         },
         "device": {
             "metaDataVersion": "1.0.0",
