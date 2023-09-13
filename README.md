@@ -9,7 +9,7 @@ This project comes preloaded on the PIC18F16Q20 Curiosity Nano board and launche
 
 - The first program is a simple LED blinking program. The microcontroller will start this first program when powered on out of the box.
 - The second program turns on the existing on-board LED by pressing a button on the Curiosity Nano board.
-- The third program sends an 8-bit counter through UART when the on-board button is pressed. This increases the counter.
+- The third program sends an 8-bit counter through the Universal Asynchronous Receiver/Transmitter (UART) when the on-board button is pressed. This increases the counter.
 
 The main program is changed by sending one of the numbers 1, 2 or 3 through UART interface. Any other key will return the menu.
 
@@ -116,17 +116,17 @@ To run the first project, send the command `1` through UART using the Data Visua
 ### 2.2. Push the button to turn on the LED
 
 The second program turns on the on-board LED by pressing the on-board button on the Curiosity Nano board.
-To run the second project, send the command `2` through UART using the Data Visualizer. After sending this command, the terminal will receive the following message: `"Program changed to press button to turn on LED"`.
+To run the second project, send the command `2` through the UART using the Data Visualizer. After sending this command, the terminal will receive the following message: `"Program changed to press button to turn on LED"`.
 <br><br><img src="images/Q20-button.gif" width="800">
 
-### 2.3. Ramp on Data Visualizer
+### 2.3. Ramp on the Data Visualizer
 
 While the on-board button is pressed, the third program sends an 8-bit counter through UART and increases the counter.
-To run the third project, send the command `3` through UART using Data Visualizer Terminal window. After sending this command, the terminal will receive the following message:`"Program changed to press button to send a ramp through UART"`.
+To run the third project, send the command `3` through the UART using the Data Visualizer Terminal window. After sending this command, the terminal will receive the following message:`"Program changed to press button to send a ramp through UART"`.
 
 <br><img src="images/start_ramp_through_uart.png" width="800">
 
-Follow the steps in the **How to use MPLAB® Data Visualizer** section to set up the Data Visualizer. Switch to the Time Plot window and start streaming live data.  The plot will show the value of the counter which increases while the on-board button is pressed.  The demo below shows the result of holding down the button for 60 seconds.
+Follow the steps in the **How to use MPLAB Data Visualizer** section to set up the Data Visualizer. Switch to the Time Plot window and start streaming live data.  The plot will show the value of the counter which increases while the on-board button is pressed.  The demo below shows the result of holding down the button for 60 seconds.
 
 <br> **Note:** The time plot shown is at 8x speed.
 
@@ -139,7 +139,7 @@ Follow the steps in the **How to use MPLAB® Data Visualizer** section to set up
 This project is an out-of-the-box experience for the first-time user. It showcases the basic features of the Curiosity Nano Development platform.
 
 
-## How to use MPLAB® Data Visualizer
+## How to use MPLAB Data Visualizer
 
 This section demonstrates how to set up and use the MPLAB X Data Visualizer to send commands and receive information.  These instructions are necessary to show the ramp results in the third part of the demo, however, these instructions can be used for any project where the MPLAB X Data Visualizer would be useful.
 
@@ -159,7 +159,7 @@ This section demonstrates how to set up and use the MPLAB X Data Visualizer to s
 
 <br><img src="images/send_input_line.png" width="1000">
 
-**Note:** The next steps must be followed to run the third program.
+**Note:** The next steps will be followed to run the third program.
 
 4. Prepare MPLAB Data Visualizer. Right click on the **Important files**, click **Add Item to Important Files...** .
 
