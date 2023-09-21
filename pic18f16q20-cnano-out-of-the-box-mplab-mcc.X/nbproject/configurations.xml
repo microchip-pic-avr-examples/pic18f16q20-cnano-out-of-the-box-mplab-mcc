@@ -65,11 +65,11 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>nEdbgTool</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.41</languageToolchainVersion>
+        <languageToolchainVersion>2.45</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC18F-Q_DFP" vendor="Microchip" version="1.20.405"/>
+        <pack name="PIC18F-Q_DFP" vendor="Microchip" version="1.21.411"/>
       </packs>
       <ScriptingSettings>
       </ScriptingSettings>
@@ -284,8 +284,6 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="0-ffff"/>
         <property key="poweroptions.powerenable" value="false"/>
-        <property key="programmerToGoFilePath"
-                  value="C:/Users/C70348/MPLABXProjects/GitRepos/pic18f16Q20-cnano-out-of-the-box-code-mplab-mcc/pic18f16q20-cnano-out-of-the-box-mplab-mcc.X/debug/default/pic18f16q20-cnano-out-of-the-box-mplab-mcc_ptg"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.preservedataflash" value="false"/>
         <property key="programoptions.preservedataflash.ranges"
@@ -530,8 +528,6 @@
         <property key="memories.programmemory" value="true"/>
         <property key="memories.programmemory.ranges" value="0-ffff"/>
         <property key="poweroptions.powerenable" value="false"/>
-        <property key="programmerToGoFilePath"
-                  value="C:/Users/C70348/MPLABXProjects/GitRepos/pic18f16Q20-cnano-out-of-the-box-code-mplab-mcc/pic18f16q20-cnano-out-of-the-box-mplab-mcc.X/debug/default/pic18f16q20-cnano-out-of-the-box-mplab-mcc_ptg"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.preservedataflash" value="false"/>
         <property key="programoptions.preservedataflash.ranges"

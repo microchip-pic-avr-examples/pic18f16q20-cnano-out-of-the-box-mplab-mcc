@@ -20,7 +20,7 @@
         ],
         "dfp": {
             "name": "PIC18F-Q_DFP",
-            "semverRange": "^1.20.405"
+            "semverRange": "^1.21.411"
         },
         "configurator": {
             "name": "MCC",
@@ -39,7 +39,8 @@
         "author": "Microchip",
         "peripherals": [
             "USART",
-            "GPIO"
+            "GPIO",
+            "I3C"
         ],
         "keywords": [
             "Getting Started",

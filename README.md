@@ -29,11 +29,11 @@ For more details and code examples on the PIC18F16Q20 click on the following lin
 - MPLAB Data Visualizer
 
 ## Hardware Used
-- Curiosity Nano Evaluation Kit (EV...) To be added after landing page is created
+- [PIC18F16Q20 Curiosity Nano Evaluation Kit (EV73T25A)](https://www.microchip.com/en-us/development-tool/EV73T25A?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q20&utm_content=pic18f16q20-cnano-out-of-the-box-mplab-mcc-github&utm_bu=MCU08)
+  
 - [Curiosity Nano Base for Click Boards&trade;](https://www.microchip.com/en-us/development-tool/AC164162?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q20&utm_content=pic18f16q20-cnano-out-of-the-box-mplab-mcc-github&utm_bu=MCU08)
 
-- **TODO:** Will replace image below with Q20 Image When Available
-<br><img src="images/pic18f56q71_cnano_board.png" width="800">
+<br><img src="images/pic18f16q20_cnano_board.png" width="800">
 
 ## Setup
 
