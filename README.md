@@ -25,7 +25,7 @@ For more details and code examples on the PIC18F16Q20 click on the following lin
 - [MPLAB&reg; X IDE v6.1.5 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q20&utm_content=pic18f16q20-cnano-out-of-the-box-mplab-mcc-github&utm_bu=MCU08)
 - [MPLAB XC8 v2.45 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q20&utm_content=pic18f16q20-cnano-out-of-the-box-mplab-mcc-github&utm_bu=MCU08)
 - [MPLAB Code Configurator (MCC)](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_pic18q20&utm_content=pic18f16q20-cnano-out-of-the-box-mplab-mcc-github&utm_bu=MCU08)
-- PIC18F-Q_DFP v1.20.405 or newer Series Device Pack
+- PIC18F-Q_DFP v1.22.416 or newer Series Device Pack
 - MPLAB Data Visualizer
 
 ## Hardware Used
